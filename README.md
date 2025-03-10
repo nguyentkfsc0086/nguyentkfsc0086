@@ -3,6 +3,13 @@
 ## 🚀 About Me
 I'm a Computer Science and Mathematics in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major and a concentration in Bioinformatics/Chemicalinformatics.
 
+## 📈 Currently Learning:
+   * [CS229](https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&si=hsmqC7l5LlfJ9913)
+   * [UD120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+   * [ReactJS](https://www.youtube.com/watch?v=G6D9cBaLViA)
+   * [Intro to Mathematical Thinking](https://online.stanford.edu/courses/hstar-y0001-introduction-mathematical-thinking)
+   * [Into to Biology](https://youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63&si=E2IIPot2qwtgLnU5)
+
 ## 🧑‍💻 My coding Project:
 -**Java**: 
   * [2x2x2 Rubik Solver](https://github.com/nguyentkfsc0086/Rubik-Cube-s-Solver-by-Java)
