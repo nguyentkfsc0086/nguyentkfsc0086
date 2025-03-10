@@ -14,7 +14,7 @@ I'm a Computer Science and Mathematics in Bunker Hill Community College and will
 -**Java**: 
   * [2x2x2 Rubik Solver](https://github.com/nguyentkfsc0086/Rubik-Cube-s-Solver-by-Java)
 
--**Python**-
+-**Python**
   * [Objects detection and foucus](https://github.com/toanhac/BTSFaceCamCreator)
   * [ASL to English translator](https://github.com/AliTaladar/Signify)
   * [Mini discord bot](https://github.com/nguyentkfsc0086/discordBot)
