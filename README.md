@@ -21,8 +21,8 @@ I'm a Computer Science and Mathematics in Bunker Hill Community College and will
 - **Tools & Platforms**: Git
 
 ## 📫 Let's Connect!
-- LinkedIn: [(https://www.linkedin.com/in/nguyentran04](#)
-- Email: nguyentrankhoi1201@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/nguyentran04)
+- [Email](nguyentrankhoi1201@gmail.com) 
 
 🚀 Let's build something great together!
 
