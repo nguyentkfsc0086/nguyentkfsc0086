@@ -8,7 +8,7 @@ I'm a Computer Science and Mathematics in Bunker Hill Community College and will
    * [UD120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
    * [ReactJS](https://www.youtube.com/watch?v=G6D9cBaLViA)
    * [Intro to Mathematical Thinking](https://online.stanford.edu/courses/hstar-y0001-introduction-mathematical-thinking)
-   * [Into to Biology](https://youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63&si=E2IIPot2qwtgLnU5)
+   * [Intro to Biology](https://youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63&si=E2IIPot2qwtgLnU5)
 
 ## 🧑‍💻 My coding Project:
 -**Java**: 
@@ -25,7 +25,7 @@ I'm a Computer Science and Mathematics in Bunker Hill Community College and will
 - **Languages**: Python, C++, Java, SQL
 - **Databases**: MySQL, Oracle SQL
 - **AI, ML**: Scikitlearn
-- **Tools & Platforms**: Git
+- **Tools & Platforms**: Git, VS Code
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nguyentran04)
