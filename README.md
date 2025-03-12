@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyen Tran! 👋
+# Hi there, I'm Nguyen! 👋
 
 ## 🚀 About Me
 I'm a Computer Science and Mathematics in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major (Hopefully double major in Math and minor in Biology) with a concentration in Bioinformatics/Cheminformatics.
