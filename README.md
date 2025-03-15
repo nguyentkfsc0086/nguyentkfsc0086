@@ -24,7 +24,7 @@ I'm a Computer Science and Mathematics student in Bunker Hill Community College 
 ## 🛠️ Tech Stack
 - **Languages**: Python, C++, Java, SQL
 - **Databases**: MySQL, Oracle SQL
-- **AI, ML**: Scikitlearn
+- **AI, ML**: Scikitlearn,YOLOv9
 - **Tools & Platforms**: Git, VS Code
 
 ## 📫 Let's Connect!
