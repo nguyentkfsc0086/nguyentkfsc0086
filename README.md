@@ -6,7 +6,7 @@ I'm a Computer Science and Mathematics student in Bunker Hill Community College 
 ## 📈 Currently Learning:
    * [CS229](https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&si=hsmqC7l5LlfJ9913)
    * [UD120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-   * [ReactJS](https://www.youtube.com/watch?v=G6D9cBaLViA)
+   * [ReactJS](https://youtube.com/playlist?list=PLzMcBGfZo4-nRV61oEu3KfMwWKI571uPT&si=A3G6Cd8xG_pCBGKN)
    * [Intro to Mathematical Thinking](https://online.stanford.edu/courses/hstar-y0001-introduction-mathematical-thinking)
    * [Intro to Biology](https://youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63&si=E2IIPot2qwtgLnU5)
 
