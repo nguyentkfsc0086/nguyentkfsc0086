@@ -23,7 +23,7 @@ I'm a Computer Science and Mathematics student in Bunker Hill Community College 
 - **Languages**: Python, C++, Java, SQL
 - **Databases**: MySQL, Oracle SQL
 - **AI, ML**: Scikitlearn, YOLOv9
-- **Tools & Platforms**: Git, VS Code
+- **Tools & Platforms**: Git, VS Code, Google Colab
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nguyentran04)
