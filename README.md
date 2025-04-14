@@ -1,12 +1,10 @@
 # Hi there, I'm Nguyen! 👋
 
 ## 🚀 About Me
-I'm a Computer Science and Mathematics student in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major (Hopefully double major in Math and minor in Biology) with a concentration in Bioinformatics/Cheminformatics.
+I'm a Computer Science and Mathematics student in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major (Hopefully double major in Math and minor in Biology) with a concentration in Bio/Cheminformatics.
 
 ## 📈 Currently Learning:
    * [CS229](https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&si=hsmqC7l5LlfJ9913)
-   * [UD120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-   * [ReactJS](https://youtube.com/playlist?list=PLzMcBGfZo4-nRV61oEu3KfMwWKI571uPT&si=A3G6Cd8xG_pCBGKN)
    
 ## 🧑‍💻 My coding Project:
 -**Java**: 
