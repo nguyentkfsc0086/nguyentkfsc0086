@@ -3,8 +3,9 @@
 ## 🚀 About Me
 I'm a Computer Science and Mathematics student in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science major (Hopefully double major in Math and minor in Biology) with a concentration in Bio/Cheminformatics.
 
-## 📈 Currently Learning:
-   * [CS229](https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&si=hsmqC7l5LlfJ9913)
+## 📈 Currently Exploring:
+   * [Machine Learning](https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&si=hsmqC7l5LlfJ9913)
+   * [Real Analysis](https://youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&si=aeODBamPAQIRDMaY)
    
 ## 🧑‍💻 My coding Project:
 -**Java**: 
@@ -22,7 +23,9 @@ I'm a Computer Science and Mathematics student in Bunker Hill Community College 
 - **Databases**: MySQL, Oracle SQL
 - **AI, ML**: Scikitlearn, YOLOv9
 - **Tools & Platforms**: Git, VS Code, Google Colab
-
+## Course work:
+- **Computer Science**: Data Structure and Algorithms, C++ Programming, Java Programming, Advance Java Progamming, SQL Programming
+- **Mathematics**: Calculus I, Calculus II, Calculus III, Linear Algebra, Ordinary Differential Equations
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nguyentran04)
 - [Email](nguyentrankhoi1201@gmail.com) 
