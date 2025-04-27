@@ -23,7 +23,7 @@ I'm a Computer Science and Mathematics student in Bunker Hill Community College 
 - **Databases**: MySQL, Oracle SQL
 - **AI, ML**: Scikitlearn, YOLOv9
 - **Tools & Platforms**: Git, VS Code, Google Colab
-## Course work:
+## Course works:
 - **Computer Science**: Data Structure and Algorithms, C++ Programming, Java Programming, Advance Java Progamming, SQL Programming
 - **Mathematics**: Calculus I, Calculus II, Calculus III, Linear Algebra, Ordinary Differential Equations
 ## 📫 Let's Connect!
