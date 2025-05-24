@@ -1,11 +1,11 @@
 # Hi there, I'm Nguyen! 👋
 
 ## 🚀 About Me
-I'm a Computer Science and Mathematics student in Bunker Hill Community College and will transfer to UMass Lowell in Fall 2025 with Computer Science and Statistics Majors
+I’m an incoming junior at the University of Massachusetts Lowell, majoring in Computer Science and Mathematics. I’m passionate about applying computer science to the fields of biology and healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in the Biology Department at the Kennedy College of Sciences.
 
-## 📈 Currently Exploring:
-   * [Machine Learning](https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&si=hsmqC7l5LlfJ9913)
-   * [Real Analysis](https://youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw&si=aeODBamPAQIRDMaY)
+## 📈 Currently Learning:
+   * [Statistics with R](https://nguyentranuml.netlify.app/notes/r_bioiformatics/)
+   * [Introduction to Probability](https://nguyentranuml.netlify.app/notes/intro_to_prob/)
    
 ## 🧑‍💻 My coding Project:
 -**Java**: 
