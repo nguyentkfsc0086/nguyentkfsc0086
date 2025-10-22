@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyen! 👋
 
 ## 🚀 About Me
-I’m an incoming junior at the University of Massachusetts Lowell, majoring in Computer Science and Mathematics. I’m passionate about applying computer science to the fields of biology and healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in the Biology Department at the Kennedy College of Sciences.
+I’m an incoming junior at the University of Massachusetts Lowell, majoring in Applied Mathematics and Statistics. I’m passionate about applying statistical and machine learning methods to the fields of biology and healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in the Biology Department at the Kennedy College of Sciences.
 
 ## 📈 Currently Learning:
    * [Statistics with R](https://nguyentranuml.netlify.app/notes/r_bioiformatics/)
