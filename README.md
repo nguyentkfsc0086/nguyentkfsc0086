@@ -1,11 +1,7 @@
 # Hi there, I'm Nguyen! 👋
 
 ## 🚀 About Me
-I’m an incoming junior at the University of Massachusetts Lowell, majoring in Applied Mathematics and Statistics. I’m passionate about applying statistical and machine learning methods to the fields of biology and healthcare. Currently, I’m working on an independent research project under the guidance of Professor Rachel Melamed in the Biology Department at the Kennedy College of Sciences.
-
-## 📈 Currently Learning:
-   * [Statistics with R](https://nguyentranuml.netlify.app/notes/r_bioiformatics/)
-   * [Introduction to Probability](https://nguyentranuml.netlify.app/notes/intro_to_prob/)
+Hi I’m Nguyen and I come from Cantho, Vietnam. I’m a junior at the University of Massachusetts Lowell study in Applied Mathematics and Statistics. I’m passionate about applying statistical and computational methods to the fields of Biology and Healthcare. Fun fact, I love Heytea’s Coconut Mango Boom and Bún bò Huế.
    
 ## 🧑‍💻 My coding Project:
 -**Java**: 
@@ -19,13 +15,13 @@ I’m an incoming junior at the University of Massachusetts Lowell, majoring in 
 
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C++, Java, SQL
+- **Languages**: Python, Shell Programming, C++, Java, SQL
 - **Databases**: MySQL, Oracle SQL
-- **AI, ML**: Scikitlearn, YOLOv9
-- **Tools & Platforms**: Git, VS Code, Google Colab
+- **Libraries**: Pandas, bcftools, ANNOVAR, Scikitlearn, YOLOv9
+- **Tools & Platforms**: Git, VS Code, Google Colab, Jupyter Notebook
 ## Course works:
-- **Computer Science**: Data Structure and Algorithms, C++ Programming, Java Programming, Advance Java Progamming, SQL Programming
-- **Mathematics**: Calculus I, Calculus II, Calculus III, Linear Algebra, Ordinary Differential Equations
+- **Computer Science/Data Science**: Data Structure and Algorithms, C++ Programming, Java Programming, Advance Java Progamming, SQL Programming, Organization of Programming Languages, Data Science for Biologies
+- **Mathematics**: Calculus I, Calculus II, Calculus III, Linear Algebra, Ordinary Differential Equations, Discrete Structures, Partial Differential Equations
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nguyentran04)
 - [Email](nguyentrankhoi1201@gmail.com) 
