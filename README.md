@@ -16,7 +16,6 @@ Hi I’m Nguyen and I come from Cantho, Vietnam. I’m a junior at the Universit
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, Shell Programming, C++, Java, SQL
-- **Databases**: MySQL, Oracle SQL
 - **Libraries**: Pandas, bcftools, ANNOVAR, Scikitlearn, YOLOv9
 - **Tools & Platforms**: Git, VS Code, Google Colab, Jupyter Notebook
 ## Course works:
