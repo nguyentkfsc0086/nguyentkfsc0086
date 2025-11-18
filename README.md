@@ -19,7 +19,7 @@ Hi I’m Nguyen and I come from Cantho, Vietnam. I’m a junior at the Universit
 - **Libraries**: Pandas, bcftools, ANNOVAR, Scikitlearn, YOLOv9
 - **Tools & Platforms**: Git, VS Code, Google Colab, Jupyter Notebook
 ## Course works:
-- **Computer Science/Data Science**: Data Structure and Algorithms, C++ Programming, Java Programming, Advance Java Progamming, SQL Programming, Organization of Programming Languages, Data Science for Biologies
+- **Computer Science/Data Science**: Data Structure and Algorithms, C++ Programming, Java Programming, Advance Java Progamming, SQL Programming, Organization of Programming Languages, Data Science for Biologist
 - **Mathematics**: Calculus I, Calculus II, Calculus III, Linear Algebra, Ordinary Differential Equations, Discrete Structures, Partial Differential Equations
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nguyentran04)
