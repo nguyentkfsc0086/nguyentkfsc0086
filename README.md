@@ -8,6 +8,7 @@ Hi I’m Nguyen and I come from Cantho, Vietnam. I’m a junior at the Universit
   * [2x2x2 Rubik Solver](https://github.com/nguyentkfsc0086/Rubik-Cube-s-Solver-by-Java)
 
 -**Python**
+  * [Heart Disease Classification](https://github.com/nguyentkfsc0086/heart-diesease-classification)
   * [Gene expression analytics](https://github.com/nguyentkfsc0086/DS4Bio-project/tree/main)
   * [Objects detection and foucus](https://github.com/toanhac/BTSFaceCamCreator)
   * [ASL to English translator](https://github.com/AliTaladar/Signify)
