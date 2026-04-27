@@ -11,8 +11,12 @@ Hi I’m Nguyen and I come from Cantho, Vietnam. I’m a junior at the Universit
   * [ASL to English translator](https://github.com/AliTaladar/Signify)
   * [Mini discord bot](https://github.com/nguyentkfsc0086/discordBot)
   * [UD-120 Mini projects](https://github.com/nguyentkfsc0086/UD120_MiniProject)
+
+
 -**R**:
   * [HIV/AIDS analysis](https://github.com/nguyentkfsc0086/applied_stats_final_project)
+
+
 -**Java**: 
   * [2x2x2 Rubik Solver](https://github.com/nguyentkfsc0086/Rubik-Cube-s-Solver-by-Java)
 
