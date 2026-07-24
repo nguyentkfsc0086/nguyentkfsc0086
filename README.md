@@ -23,7 +23,7 @@ Hi I’m Nguyen and I come from Cantho, Vietnam. I’m a junior at the Universit
 - **Tools & Platforms**: Git, VS Code, Google Colab, Jupyter Notebook
 ## Course works:
 - **Computer Science/Data Science**: Data Structure and Algorithms, C++ Programming, Java Programming, Advance Java Progamming, SQL Programming, Organization of Programming Languages, Data Science for Biologist
-- **Mathematics**: Calculus I - III, Linear Algebra, Ordinary Differential Equations, Discrete Structures, Partial Differential Equations, Real Analysis, Mathematical methods for Quantum errors correction, Probability and Mathematical Statistics
+- **Mathematics**: Ordinary Differential Equations, Partial Differential Equations, Real Analysis, Mathematical methods for Quantum errors correction, Applied Statistics, Probability and Mathematical Statistics, Optimization, Applied Linear Algebra
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/nguyentran04)
 - [Email](nguyentrankhoi1201@gmail.com) 
