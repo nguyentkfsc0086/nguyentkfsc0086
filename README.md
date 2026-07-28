@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyen! 👋
 
 ## 🚀 About Me
-Hi I’m Nguyen and I come from Cantho, Vietnam. I’m a junior at the University of Massachusetts Lowell study in Applied Mathematics and Statistics.
+Hi I’m Nguyen and I come from Cantho, Vietnam. I’m an undergraduate student at the University of Massachusetts Lowell study Applied Mathematics and Statistics.
    
 ## 🧑‍💻 My coding Project:
 -**Python**:
@@ -16,7 +16,10 @@ Hi I’m Nguyen and I come from Cantho, Vietnam. I’m a junior at the Universit
 -**Java**: 
   * [2x2x2 Rubik Solver](https://github.com/nguyentkfsc0086/Rubik-Cube-s-Solver-by-Java)
 
-
+## Interested:
+- Biostatistics
+- Biomedical Data Science
+- Mathematical Modeling
 ## 🛠️ Tech Stack
 - **Languages**: Python, Shell Programming, C++, Java, SQL
 - **Libraries**: Pandas, bcftools, ANNOVAR, Scikitlearn, YOLOv9
